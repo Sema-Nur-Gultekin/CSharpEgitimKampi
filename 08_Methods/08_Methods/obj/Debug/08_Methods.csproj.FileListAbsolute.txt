@@ -1,0 +1,7 @@
+C:\Users\Sema Nur Gültekin\Desktop\08_Methods\08_Methods\bin\Debug\08_Methods.exe.config
+C:\Users\Sema Nur Gültekin\Desktop\08_Methods\08_Methods\bin\Debug\08_Methods.exe
+C:\Users\Sema Nur Gültekin\Desktop\08_Methods\08_Methods\bin\Debug\08_Methods.pdb
+C:\Users\Sema Nur Gültekin\Desktop\08_Methods\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+C:\Users\Sema Nur Gültekin\Desktop\08_Methods\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Sema Nur Gültekin\Desktop\08_Methods\08_Methods\obj\Debug\08_Methods.exe
+C:\Users\Sema Nur Gültekin\Desktop\08_Methods\08_Methods\obj\Debug\08_Methods.pdb
