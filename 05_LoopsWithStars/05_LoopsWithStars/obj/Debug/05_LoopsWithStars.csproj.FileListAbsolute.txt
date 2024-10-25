@@ -1,0 +1,7 @@
+C:\Users\Sema Nur Gültekin\Desktop\05_LoopsWithStars\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\Sema Nur Gültekin\Desktop\05_LoopsWithStars\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\Sema Nur Gültekin\Desktop\05_LoopsWithStars\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\Sema Nur Gültekin\Desktop\05_LoopsWithStars\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\Sema Nur Gültekin\Desktop\05_LoopsWithStars\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\Sema Nur Gültekin\Desktop\05_LoopsWithStars\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\Sema Nur Gültekin\Desktop\05_LoopsWithStars\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb
